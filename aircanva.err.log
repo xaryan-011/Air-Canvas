@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "C:\Users\devil\Downloads\AirCanva\AirCanva\main.py", line 13, in <module>
+    mpHands = mp.solutions.hands
+              ^^^^^^^^^^^^
+AttributeError: module 'mediapipe' has no attribute 'solutions'
